@@ -1,0 +1,9 @@
+x:=4; j:=4;
+while x<=10 do
+begin
+if x mOd 2 = 0 then writeln(x);
+				else writeln(1);
+x:=x+1;
+end;
+write(cmmdc(10,j));
+.
